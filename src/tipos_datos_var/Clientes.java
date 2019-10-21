@@ -1,11 +1,18 @@
 /*
-DESCRIPCION:
+DESCRIPCION:CREACIÓN DE ARREGLOS UNIDIMENSIONALES,LECTURA DE DATOS DE ARREGLOS UNIDIMENSIONALES
+,CONTROL DE MEMORIA EN LOS ARREGLOS UNIDIMENSIONALES,ESTRUCTURAS FUNDAMENTALES DE CONTROL:
+SELECCIÓN DOBLE (if-else)
+Fecha: 
+20/10/2019
+AUTOR:
+Fatima Ramirez Briseño
  */
 package tipos_datos_var;
 
 import javax.swing.JOptionPane;
 public class Clientes {
     
+//TAMAÑO Y CONTADOR 
         byte tamaño=3;
         byte num_datos=0;
 //CLIENTE
